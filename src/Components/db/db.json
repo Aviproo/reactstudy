@@ -1,0 +1,11 @@
+{
+  "resturant": [
+    {
+      "id": 1,
+      "name": "nestle",
+      "location": "noida",
+      "rating": 4.5,
+      "email": "nestle@gmail.com"
+    }
+  ]
+}
